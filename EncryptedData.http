@@ -1,0 +1,6 @@
+@EncryptedData_HostAddress = http://localhost:5290
+
+GET {{EncryptedData_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
