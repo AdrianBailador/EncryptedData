@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EncryptedData")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e68648ebc34a615a9ae2d0a563a9a4119075e6d4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae9b3412a4ffe5761674196c8533afce1e17d985")]
 [assembly: System.Reflection.AssemblyProductAttribute("EncryptedData")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EncryptedData")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
